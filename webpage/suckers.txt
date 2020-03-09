@@ -1,0 +1,3 @@
+Sgggg;MA;123456789s;visa
+SSS;MA;12351615165;visa
+ABS;MA;456123;mastercard
